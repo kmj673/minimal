@@ -3,6 +3,10 @@ redirect_from: "/minimal/"
 layout: default
 ---
 
+{% include_relative /diaries/2020.md %}
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
